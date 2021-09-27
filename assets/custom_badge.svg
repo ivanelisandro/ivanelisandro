@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="28" role="img" aria-label="JETBRAINS ACADEMY">
 <g shape-rendering="crispEdges"><rect width="200" height="28" fill="#000"/></g>
 <g fill="#000" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-<image x="9" y="7" width="14" height="14" xlink:href="https://github.com/ivanelisandro/ivanelisandro/blob/main/assets/custom_badge2.svg"/>
+<svg width="14" height="14" x="9" y="7" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#fff" stroke="#fff" stroke-width="2" d="M1 1h26v26H1z"/>
+  <path d="M26 3v23H3L26 3z" fill="#000"/>
+  <path fill="#fff" d="M16 20h7v2h-7z"/>
+</svg>
 <text transform="scale(.1)" x="1100" y="175" textLength="1500" fill="#fff" font-weight="bold">JETBRAINS ACADEMY</text>
 </g>
 </svg>
