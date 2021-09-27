@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-## 📫 Find me here:
+### 📫 Find me here:
 <a href="https://github.com/ivanelisandro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ivanelisandro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://hyperskill.org/profile/58378721"><img src="https://github.com/ivanelisandro/ivanelisandro/blob/main/assets/custom_badge.svg"></a>
@@ -33,14 +33,14 @@ But also wandering through:
 - My focus is in software development of desktop applications using C#.NET and WPF;
 
 
-## 🌱 What I am learning
+### 🌱 What I am learning
 - I have been studying Python for more than a year now, with [JetBrains Academy](https://hyperskill.org/profile/58378721);
   - My repositories here are mostly focused on these studies;
   - The JetBrains Academy content includes Django and a little bit of data science as well;
 - I’m really curious about game development, but never went hands-on with it;
 
 
-## ⚡ A little bit more
+### ⚡ A little bit more
 - I love stories (books, animation, movies, TV series, games);
 - I love sharing knowledge and helping people with personal programming projects;
 - I really admire games that can combine a good story with incredible technical achievements;
@@ -48,7 +48,7 @@ But also wandering through:
 - I’m a ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) enthusiast!
 
 <!--
-## About me:
+### About me:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
