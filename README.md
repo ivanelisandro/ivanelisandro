@@ -3,7 +3,11 @@
 ### 📫 Find me here:
 <a href="https://github.com/ivanelisandro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ivanelisandro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://hyperskill.org/profile/58378721"><img src="https://img.shields.io/badge/JetBrains%20Academy-000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAACVBMVEUAAAB%2Ff3%2F%2F%2F%2F8xd7cSAAAAS0lEQVR42rXSAQbAQBAEwU3%2B%2F%2BjAomgC5xoYBTDz%2FnQDHzA2QayIFbEiVsREragVtaJW1IqaqBW1oibWQGznIhbEDMSCWFATD079AZUoBCw64p5dAAAAAElFTkSuQmCC"></a>
+
+<!-- Previous JetBrains Academy logo
 <a href="https://hyperskill.org/profile/58378721"><img src="https://github.com/ivanelisandro/ivanelisandro/blob/main/assets/custom_badge.svg"></a>
+-->
 
 
 ### 😄 Pronouns:
