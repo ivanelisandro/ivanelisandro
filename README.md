@@ -31,20 +31,25 @@ But also wandering through:
 - I’m a Control and Automation Engineer currently working as Products and Systems Developer;
 - I have been working in software development for industrial automation since 2015;
 - My focus is in software development of desktop applications using C#.NET and WPF;
+- I have started programming with C and C++ in 2009 and I have been using C# since 2010;
 
 
-### 🌱 What I am learning
+### 🌱 What else I like/study
 - I have been studying Python for more than a year now, with [JetBrains Academy](https://hyperskill.org/profile/58378721);
   - My repositories here are mostly focused on these studies;
   - The JetBrains Academy content includes Django and a little bit of data science as well;
+- I have used (and I really enjoyed) development kits like Arduino and RaspberryPi (I even used Arduino for my final project at the university);
+- I have worked a lot with Matlab and Simulink during the university (maybe I should upload that old stuff here 🤔);
 - I’m really curious about game development, but never went hands-on with it;
+- I like studying languages in general (both languages to speak and programming languages);
+- I also like 3D modelling and keep it as a hobby (I have used ProEngineer and Solid Works in the past, but lately I have been preferring Blender);
 
 
 ### ⚡ A little bit more
-- I love stories (books, animation, movies, TV series, games);
+- I love good stories (books, games, animation, movies, TV series);
 - I love sharing knowledge and helping people with personal programming projects;
 - I really admire games that can combine a good story with incredible technical achievements;
-- I work better during evenings/nights;
+- I prefer evenings/nights;
 - I’m a ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) enthusiast!
 
 <!--
