@@ -28,7 +28,7 @@ But also wandering through: <p>
 
 
 ## 🔭 What I do
-- I’m a Control and Automation Engineer currently working as Products and Systems Developer;
+- I’m a Control and Automation Engineer currently working as Senior Software Developer;
 - I have been working in software development for industrial automation since 2015;
 - My focus is in software development of desktop applications using C#.NET and WPF;
 - I have started programming with C and C++ in 2009 and I have been using C# since 2010;
