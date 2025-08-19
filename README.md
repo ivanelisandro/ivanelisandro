@@ -30,14 +30,18 @@ But also wandering through: <p>
 ## 🔭 What I do
 - I’m a Control and Automation Engineer currently working as Senior Software Developer;
 - I have been working in software development for industrial automation since 2015;
-- My focus is in software development of desktop applications using C#.NET and WPF;
+- My main experience is in software development of desktop applications using C#.NET and WPF;
+- I also use Python a lot for systems integration and automating daily tasks to help make life easier for my teammates;
+- My main database experience is with PostgreSQL;
+- Curretly learning Docker;
 - I have started programming with C and C++ in 2009 and I have been using C# since 2010;
 
 
 ### 🌱 What else I like/study
-- I have been studying Python for more than a year now, with [JetBrains Academy](https://hyperskill.org/profile/58378721);
+- I have studied Python for 3 years with [JetBrains Academy](https://hyperskill.org/profile/58378721);
   - My repositories here are mostly focused on these studies;
   - The JetBrains Academy content includes Django and a little bit of data science as well;
+- I am currently studying Docker also with JetBrains Academy;
 - I have used (and I really enjoyed) development kits like Arduino and RaspberryPi (I even used Arduino for my final project at the university);
 - I have worked a lot with Matlab and Simulink during the university (maybe I should upload that old stuff here 🤔);
 - I’m really curious about game development, but never went hands-on with it;
