@@ -31,9 +31,8 @@ But also wandering through: <p>
 - I’m a Control and Automation Engineer currently working as Senior Software Developer;
 - I have been working in software development for industrial automation since 2015;
 - My main experience is in software development of desktop applications using C#.NET and WPF;
-- I also use Python a lot for systems integration and automating daily tasks to help make life easier for my teammates;
+- I also use Python a lot for systems integration and for automating daily tasks to help make life easier for my teammates;
 - My main database experience is with PostgreSQL;
-- Curretly learning Docker;
 - I have started programming with C and C++ in 2009 and I have been using C# since 2010;
 
 
